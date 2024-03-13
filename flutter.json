@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Ravi Kumar",
+    "Telugu": 85,
+    "English": 78,
+    "Hindi": 80,
+    "Maths": 92,
+    "Sanskrit": 88,
+    "Science": 90,
+    "Grade": "A",
+    "Percentage": 86,
+    "Action": "Pass"
+  },
+  {
+    "Name": "Sita Sharma",
+    "Telugu": 75,
+    "English": 82,
+    "Hindi": 90,
+    "Maths": 85,
+    "Sanskrit": 80,
+    "Science": 88,
+    "Grade": "B",
+    "Percentage": 83,
+    "Action": "Pass"
+  },
+  {
+    "Name": "Amit Patel",
+    "Telugu": 70,
+    "English": 68,
+    "Hindi": 72,
+    "Maths": 65,
+    "Sanskrit": 74,
+    "Science": 68,
+    "Grade": "C",
+    "Percentage": 70,
+    "Action": "Pass"
+  },
+  {
+    "Name": "Priya Reddy",
+    "Telugu": 92,
+    "English": 88,
+    "Hindi": 94,
+    "Maths": 96,
+    "Sanskrit": 90,
+    "Science": 92,
+    "Grade": "A+",
+    "Percentage": 92,
+    "Action": "Pass"
+  }
+]
